@@ -3,7 +3,7 @@ name: 10WeeksChallenge-Pipeline
 on:
   push:
     branches:
-    - masterr
+    - master
 
 jobs:
   deploy:
